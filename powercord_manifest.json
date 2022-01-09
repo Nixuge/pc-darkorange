@@ -1,8 +1,8 @@
 {
-    "name": "Gamesense Theme but not anymore",
-    "description": "Themeok",
-    "version": "b1.0",
-    "author": "Nixuge²#5923",
+    "name": "DarkOrange",
+    "description": "A darker/orange accent theme for powercord",
+    "version": "2.0",
+    "author": "https://nixuge.me",
     "theme": "style.css",
-    "license": "yolo"
+    "license": "MIT"
 }
